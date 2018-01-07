@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "/Users/weihanbo/Desktop/projects/android/group_project/app/build/intermediates/res/merged/debug/layout-v21/notification_template_icon_group.xml",
+        "source": "/Users/weihanbo/.android/build-cache/5b5cd8d477ea5a469e38892161ad8170dda3d0ff/output/res/layout-v21/notification_template_icon_group.xml"
+    },
+    {
+        "merged": "/Users/weihanbo/Desktop/projects/android/group_project/app/build/intermediates/res/merged/debug/layout-v21/notification_template_custom_big.xml",
+        "source": "/Users/weihanbo/.android/build-cache/5b5cd8d477ea5a469e38892161ad8170dda3d0ff/output/res/layout-v21/notification_template_custom_big.xml"
+    },
+    {
+        "merged": "/Users/weihanbo/Desktop/projects/android/group_project/app/build/intermediates/res/merged/debug/layout-v21/notification_action_tombstone.xml",
+        "source": "/Users/weihanbo/.android/build-cache/5b5cd8d477ea5a469e38892161ad8170dda3d0ff/output/res/layout-v21/notification_action_tombstone.xml"
+    },
+    {
+        "merged": "/Users/weihanbo/Desktop/projects/android/group_project/app/build/intermediates/res/merged/debug/layout-v21/notification_action.xml",
+        "source": "/Users/weihanbo/.android/build-cache/5b5cd8d477ea5a469e38892161ad8170dda3d0ff/output/res/layout-v21/notification_action.xml"
+    }
+]

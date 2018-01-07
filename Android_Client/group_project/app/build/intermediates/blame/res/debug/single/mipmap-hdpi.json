@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "/Users/weihanbo/Desktop/projects/android/group_project/app/build/intermediates/res/merged/debug/mipmap-hdpi/ic_launcher.png",
+        "source": "/Users/weihanbo/Desktop/projects/android/group_project/app/src/main/res/mipmap-hdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/Users/weihanbo/Desktop/projects/android/group_project/app/build/intermediates/res/merged/debug/mipmap-hdpi/ic_launcher_round.png",
+        "source": "/Users/weihanbo/Desktop/projects/android/group_project/app/src/main/res/mipmap-hdpi/ic_launcher_round.png"
+    }
+]
