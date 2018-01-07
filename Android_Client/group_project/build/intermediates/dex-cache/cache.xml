@@ -1,0 +1,149 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="/Users/weihanbo/Desktop/projects/android/group_project/app/libs/android-async-http-1.4.8.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.2"
+        sha1="77bbfe240e437ecb396d982afa0d3bd4f9090ba7">
+        <dex dex="/Users/weihanbo/Desktop/projects/android/group_project/app/build/intermediates/transforms/dex/debug/folders/1000/2/android-async-http-1.4.8_8b18b2b163e365c12f0b083c1f7031bf31a077a0/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/weihanbo/Desktop/projects/android/group_project/app/libs/httpcore-4.1.4.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.2"
+        sha1="592ffbd778cbcc2e2dc5d162b35c16d6a538fea2">
+        <dex dex="/Users/weihanbo/Desktop/projects/android/group_project/app/build/intermediates/transforms/dex/debug/folders/1000/2/httpcore-4.1.4_3895f9736ad63ce4ff8abb5e023fe745439e9021/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/weihanbo/.gradle/caches/modules-2/files-2.1/com.parse.bolts/bolts-android/1.1.4/129874135e6081269ace2312092031558865de12/bolts-android-1.1.4.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.2"
+        sha1="129874135e6081269ace2312092031558865de12">
+        <dex dex="/Users/weihanbo/Desktop/projects/android/group_project/app/build/intermediates/transforms/dex/debug/folders/1000/10/bolts-android-1.1.4_a64a89172b06207ea415979dd369c348dddfc7a8/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/weihanbo/Desktop/projects/android/group_project/app/libs/Sunflower.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.2"
+        sha1="662ecdfa5fa755ef7d5de03ccbfaaf8b9ee23250">
+        <dex dex="/Users/weihanbo/Desktop/projects/android/group_project/app/build/intermediates/transforms/dex/debug/folders/1000/2/Sunflower_cb5ee59c48fb695ef8cfd2542dee65b7be5349ae/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/weihanbo/Desktop/projects/android/group_project/app/libs/universal-image-loader-1.9.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.2"
+        sha1="296dfb44fbf31397c0306e60cb62e06ca40df07f">
+        <dex dex="/Users/weihanbo/Desktop/projects/android/group_project/app/build/intermediates/transforms/dex/debug/folders/1000/2/universal-image-loader-1.9.1_e9de1352479344faaededaf9faf9067cd91ca991/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/weihanbo/.android/build-cache/c2c989617ce128c3ed53dba8d4eca29ed35dec7e/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.2"
+        sha1="4af24c040b21980e0a80a505816c648e36705bd9">
+        <dex dex="/Users/weihanbo/Desktop/projects/android/group_project/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_9ccaa97c2a9609a357e60a3cf960f65fca0b2f27/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/weihanbo/Desktop/projects/android/group_project/app/libs/Msc.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.2"
+        sha1="0755e18532301f531c7390175906383f81907e56">
+        <dex dex="/Users/weihanbo/Desktop/projects/android/group_project/app/build/intermediates/transforms/dex/debug/folders/1000/2/Msc_0df05f9942a5962f7c86c9956520c924d892bb61/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/weihanbo/Desktop/projects/android/group_project/app/libs/volly-1.0.11.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.2"
+        sha1="1c248dd8e8c23a3e77a29613a2872be50b680d39">
+        <dex dex="/Users/weihanbo/Desktop/projects/android/group_project/app/build/intermediates/transforms/dex/debug/folders/1000/2/volly-1.0.11_9bc261d8c4b74c58986b984212105f6c95dccd7a/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/weihanbo/.android/build-cache/90d26292d14a2a779d4812f9087d10a3c4711afa/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.2"
+        sha1="845a5b3a624946b2068963ba656c117fc453701c">
+        <dex dex="/Users/weihanbo/Desktop/projects/android/group_project/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_15acde18e9bdd1123280bc666c03f4f08ce9040b/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/weihanbo/.gradle/caches/modules-2/files-2.1/com.nineoldandroids/library/2.4.0/e9b63380f3a242dbdbf103a2355ad7e43bad17cb/library-2.4.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.2"
+        sha1="e9b63380f3a242dbdbf103a2355ad7e43bad17cb">
+        <dex dex="/Users/weihanbo/Desktop/projects/android/group_project/app/build/intermediates/transforms/dex/debug/folders/1000/10/library-2.4.0_703b1755836a336690862262d07803ca5388e1f9/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/weihanbo/.android/build-cache/b5dfacd516f711ae26b8b3b3f39f45b64d209e66/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.2"
+        sha1="3836ecca4e31e18ea8fbae8e822d49777b0db4f7">
+        <dex dex="/Users/weihanbo/Desktop/projects/android/group_project/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_cce81d5e0f07e9c80903817cc95ca07285628e80/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/weihanbo/.android/build-cache/e1e30d009a8f87a00ee5512a9905050f3ad76be4/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.2"
+        sha1="9178570a3a28c95fabd3bc746cd68efe99ad2b47">
+        <dex dex="/Users/weihanbo/Desktop/projects/android/group_project/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_a77e6958542c38490d268fbbd4ccc19293c48405/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/weihanbo/Desktop/projects/android/group_project/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.2"
+        sha1="e08917f00ea797424c117134677a235ab64ce0e3">
+        <dex dex="/Users/weihanbo/Desktop/projects/android/group_project/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_d56dfe7055db2c542e1acc58c1bff3e69223833c/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/weihanbo/Desktop/projects/android/group_project/app/libs/android-async-http-1.4.5.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.2"
+        sha1="77bf7cacf9cefe19dc105e5425d2eb1bb5285881">
+        <dex dex="/Users/weihanbo/Desktop/projects/android/group_project/app/build/intermediates/transforms/dex/debug/folders/1000/2/android-async-http-1.4.5_aecc7ece1ebb45553e40f5db786ac898e4855628/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/weihanbo/Desktop/projects/android/group_project/app/libs/httpmime-4.2.5.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.2"
+        sha1="6efc2f9df23c2ac4d3b701a11cab9f9fa6a641d4">
+        <dex dex="/Users/weihanbo/Desktop/projects/android/group_project/app/build/intermediates/transforms/dex/debug/folders/1000/2/httpmime-4.2.5_198fd0bd2c6696b9f4ac6aa93752438806b7f9fb/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/weihanbo/Desktop/projects/android/group_project/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.2"
+        sha1="3be78ebc2706b2e1fe2f12d5726887a92d6c183b">
+        <dex dex="/Users/weihanbo/Desktop/projects/android/group_project/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_0cde95ace678a843585092be9024d8b8bf52b772/classes.dex" />
+    </item>
+
+</items>
