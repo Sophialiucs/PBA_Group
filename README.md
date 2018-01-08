@@ -1,7 +1,6 @@
 # PBA_Group
 Notes: 
-1. Some of the files are too large to be pushed in this repository, as we are not allowed to push files larger than 100MB.
-The un-uploaded files are:
+1. Some of the files are too large to be pushed in this repository, as we are not allowed to push files larger than 100MB. Those files are the training result that stores the trained parameters. So, missing these would disable the normal use of the application. The un-uploaded files are listed below. If you need these files, please email us!
   * Server/Group/cnn_train/tfrecords_data/training.tfrecords
   * Server/Group/cnn_train/training_log/model.ckpt-26000.data-00000-of-00001
   * Server/Group/cnn_train/training_log/model.ckpt-27000.data-00000-of-00001
